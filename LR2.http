@@ -1,6 +1,0 @@
-@LR2_HostAddress = http://localhost:5197
-
-GET {{LR2_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

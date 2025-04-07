@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\LR2\\LR2.csproj": {}
+    "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\lab-10-sanbro1337\\LR10\\LR2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\LR2\\LR2.csproj": {
+    "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\lab-10-sanbro1337\\LR10\\LR2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\LR2\\LR2.csproj",
+        "projectUniqueName": "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\lab-10-sanbro1337\\LR10\\LR2.csproj",
         "projectName": "LR2",
-        "projectPath": "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\LR2\\LR2.csproj",
+        "projectPath": "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\lab-10-sanbro1337\\LR10\\LR2.csproj",
         "packagesPath": "C:\\Users\\Alexsander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\LR2\\obj\\",
+        "outputPath": "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\lab-10-sanbro1337\\LR10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

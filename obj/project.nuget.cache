@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xxq+U7RTAEM=",
+  "dgSpecHash": "e8kyskerXr4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\LR2\\LR2.csproj",
+  "projectFilePath": "C:\\Users\\Alexsander\\Desktop\\учеба\\BackEnd\\lab-10-sanbro1337\\LR10\\LR2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexsander\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.14\\microsoft.aspnetcore.openapi.8.0.14.nupkg.sha512",
     "C:\\Users\\Alexsander\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
